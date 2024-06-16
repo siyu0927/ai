@@ -1,3 +1,4 @@
+# 借鑑李易同學的程式碼
 import os
 from langchain import hub
 from langchain.agents import AgentExecutor, create_react_agent
