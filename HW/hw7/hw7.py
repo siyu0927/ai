@@ -1,4 +1,4 @@
-# 本作業有尋求chatGPT的支援
+# 本作業複製chatGPT的程式
 import torch
 import torchvision
 import torch.nn as nn
