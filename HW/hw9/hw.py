@@ -1,4 +1,4 @@
-#根據鍾誠老師的groqHello.py改寫,有借助chatgpt幫忙
+#根據鍾誠老師的groqHello.py改寫
 import os
 from groq import Groq
 
